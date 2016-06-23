@@ -1,0 +1,7 @@
+node_modules/
+.idea/
+npm-debug.log
+config/env/*.json
+!config/env/*sample.json
+config/database.json
+temp/
